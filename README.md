@@ -116,7 +116,7 @@
 <body>
 
   <header>
-    <h1>Hi, I'm [Your Name]</h1>
+    <h1>Hi, I'm sri Harshini</h1>
     <p>Web Developer | Designer | Learner</p>
   </header>
 
@@ -155,13 +155,13 @@
 
   <section id="contact" class="contact">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:yourmail@example.com">yourmail@example.com</a></p>
+    <p>Email: <a href="mailto: sriharshini189@gmail.com">SriHarshini189@gmail.com</a></p>
     <p>LinkedIn: <a href="#">linkedin.com/in/yourprofile</a></p>
-    <p>GitHub: <a href="#">github.com/yourusername</a></p>
+    <p>GitHub: <a href="#">github.com/sri-harshini77</a></p>
   </section>
 
   <footer>
-    <p>© 2025 [Your Name] | Built with ❤️</p>
+    <p>© 2025 [sri Harshini] | Built with ❤️</p>
   </footer>
 
 </body>
